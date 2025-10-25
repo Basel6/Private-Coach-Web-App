@@ -23,7 +23,7 @@ Whether for a personal trainer who is looking to streamline his client managemen
 
 ## About our Fitness Studio
 
-## Before You Watch
+## Before You Watch The Videos
 
 To make the most of these demo videos, here is a quick overview of how our fitness studio operates:  
 
@@ -33,6 +33,8 @@ we have multiple coaches at our studio, currently at 6, some of them work a morn
 Each client can be assigned to coach, he can book a session only when his coach is working (both manual booking and AI-suggestions shows only available times for his coach).  
 A session is 1 hour long, and the capacity of our studio is 10 people at the same hour, so if there are 10 booked clients in this hour, it will be unavailable for further bookings.  
 Now enjoy `Private Coach` in action :D
+
+NOTE: this is all interchangable depending on the fitness studio who is using the app.
 
 ## Demo
 
